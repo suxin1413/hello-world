@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+ Hi Humans!
+ 
+suxin1413 here,study makes me happy. 
